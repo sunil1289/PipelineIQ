@@ -6,8 +6,6 @@ It acts like a control tower for software delivery, helping developers and teams
 
 ---
 
-![Dashboard Screenshot](./frontend/public/dashboard.png)
-
 ## 🧠 Project Overview
 
 This project tracks and visualizes the entire software delivery lifecycle:
