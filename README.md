@@ -168,13 +168,8 @@ When a developer pushes new code:
 
 ---
 
-## 👤 Author
+##  Extra Pages
+Alret Page 
+![Dashboard Screenshot](./frontend/public/Alret.png)
 
-Sunil Sharma  
-DevOps & Full Stack Learner
 
----
-
-## ⭐ Final Note
-
-This project bridges the gap between DevOps theory and real-world implementation by providing a complete, visual pipeline monitoring system.
