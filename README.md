@@ -1,4 +1,4 @@
-# 🚀 CI/CD Monitoring Dashboard (PipelineIQ)
+# 🚀PipelineIQ (CI/CD Monitoring Dashboard)
 
 A real-time DevOps dashboard that provides complete visibility into the CI/CD pipeline — from code push to deployment — with live updates, metrics, and alerts.
 
