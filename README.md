@@ -5,7 +5,9 @@ A real-time DevOps dashboard that provides complete visibility into the CI/CD pi
 It acts like a control tower for software delivery, helping developers and teams monitor, analyze, and respond to pipeline activity in real time.
 
 ---
+
 ![Dashboard Screenshot](./frontend/public/dashboard.png)
+
 ## 🧠 Project Overview
 
 This project tracks and visualizes the entire software delivery lifecycle:
