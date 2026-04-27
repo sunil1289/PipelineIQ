@@ -7,6 +7,7 @@ It acts like a control tower for software delivery, helping developers and teams
 ---
 
 ![Dashboard Screenshot](./frontend/public/DashLight.png)
+![Dashboard Screenshot](./frontend/public/DashDarkght.png)
 
 ## 🧠 Project Overview
 
